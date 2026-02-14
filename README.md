@@ -1,0 +1,2 @@
+# Restaurant-Rating-Prediction-and-Cuisine-Classification-ML
+Built an end-to-end Machine Learning project to predict restaurant ratings and classify cuisines using Python and Scikit-learn. Performed data cleaning, exploratory data analysis, feature engineering, and trained Random Forest models. Evaluated performance using R² score, accuracy, and classification metrics to generate business insights.
